@@ -1,0 +1,511 @@
+2021-11-18 14:54:40.9484 Info - SupportBank.Program: testing
+2021-11-18 14:54:58.4618 Info - SupportBank.Program: testing
+2021-11-18 14:58:54.1098 Info - SupportBank.Program: Running Program
+2021-11-18 14:58:54.1336 Info - SupportBank.Program: Reading File: C:\Work\Training\SupportBank\SupportBank\Transactions2014.csv
+2021-11-18 14:58:54.1336 Info - SupportBank.Program: Parsing Line: 1 | 01/01/2014,jon a,sarah t,pokemon training,7.8
+2021-11-18 14:58:54.1336 Info - SupportBank.Program: Parsing Line: 2 | 04/01/2014,stephen s,tim l,lunch,4.37
+2021-11-18 14:58:54.1336 Info - SupportBank.Program: Parsing Line: 3 | 08/01/2014,laura b,stephen s,lunch,5.09
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 4 | 11/01/2014,rob s,ben b,misc morale,7.8
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 5 | 14/01/2014,stephen s,ben b,beers,7.36
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 6 | 15/01/2014,sam n,stephen s,spline reticulation,11.63
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 7 | 19/01/2014,stephen s,gergana i,beers,5.88
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 8 | 20/01/2014,sam n,stephen s,beers,8.2
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 9 | 24/01/2014,laura b,sam n,coffee,11.68
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 10 | 28/01/2014,todd,ben b,coffee,6.81
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 11 | 31/01/2014,sam n,gergana i,services rendered,6.29
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 12 | 01/02/2014,todd,ben b,snooker night,6.87
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 13 | 04/02/2014,chris w,ben b,spline reticulation,6.03
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 14 | 05/02/2014,todd,rob s,sandbox help,5.62
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 15 | 07/02/2014,jon a,sam n,beers,1.65
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 16 | 10/02/2014,dan w,sam n,lunch,0.93
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 17 | 14/02/2014,laura b,stephen s,snooker night,10.78
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 18 | 15/02/2014,stephen s,gergana i,rails consultancy,6.91
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 19 | 18/02/2014,sarah t,sam n,spline reticulation,1.6
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 20 | 22/02/2014,tim l,sam n,pokemon training,5.2
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 21 | 25/02/2014,todd,rob s,automated testing services,7.1
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 22 | 27/02/2014,ben b,rob s,snooker night,8.41
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 23 | 01/03/2014,stephen s,jon a,coffee,8.75
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 24 | 03/03/2014,sam n,gergana i,lunch,8.76
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 25 | 07/03/2014,todd,laura b,pokemon training,9.39
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 26 | 10/03/2014,todd,gergana i,sandbox help,1.62
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 27 | 14/03/2014,sarah t,ben b,spline reticulation,2.1
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 28 | 17/03/2014,sarah t,stephen s,beers,0.66
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 29 | 20/03/2014,tim l,sarah t,lego assistance,2.28
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 30 | 22/03/2014,rob s,tim l,misc morale,1.95
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 31 | 23/03/2014,jon a,sam n,lunch,8.49
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 32 | 27/03/2014,ben b,sam n,misc morale,10.76
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 33 | 29/03/2014,todd,sarah t,git-fu rendered,5.01
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 34 | 30/03/2014,dan w,laura b,lunch,4.77
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 35 | 01/04/2014,sam n,laura b,lunch,2.87
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 36 | 04/04/2014,todd,ben b,rails consultancy,10.85
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 37 | 06/04/2014,jon a,stephen s,beers,8.91
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 38 | 08/04/2014,stephen s,sam n,lego assistance,2.96
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 39 | 09/04/2014,ben b,rob s,coffee,1.31
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 40 | 10/04/2014,todd,sarah t,snooker night,3.55
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 41 | 11/04/2014,todd,laura b,coffee,3.72
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 42 | 15/04/2014,rob s,sam n,snooker night,8.86
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 43 | 19/04/2014,ben b,gergana i,lunch,7.61
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 44 | 20/04/2014,dan w,gergana i,beers,11.92
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 45 | 23/04/2014,stephen s,rob s,poker winnings,3.41
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 46 | 24/04/2014,tim l,dan w,misc morale,6.38
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 47 | 26/04/2014,todd,tim l,lunch,1.46
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 48 | 30/04/2014,laura b,ben b,golf bets,5.77
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 49 | 03/05/2014,jon a,gergana i,rails consultancy,10.51
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 50 | 05/05/2014,dan w,sarah t,stationary items,5.06
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 51 | 06/05/2014,tim l,chris w,audit and other financial services,7.45
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 52 | 10/05/2014,laura b,todd,lego assistance,10.63
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 53 | 13/05/2014,tim l,ben b,coffee,5.89
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 54 | 17/05/2014,rob s,sarah t,misc morale,3.61
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 55 | 19/05/2014,jon a,todd,beers,9.04
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 56 | 22/05/2014,tim l,todd,coffee,3.81
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 57 | 24/05/2014,sam n,tim l,sandcastle help,8.8
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 58 | 26/05/2014,ben b,laura b,lunch,7.36
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 59 | 30/05/2014,laura b,todd,lunch,7.01
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 60 | 31/05/2014,tim l,ben b,coffee,8.23
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 61 | 01/06/2014,tim l,stephen s,rails consultancy,5.2
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 62 | 05/06/2014,dan w,gergana i,spline reticulation,5.61
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 63 | 09/06/2014,sarah t,stephen s,lego assistance,11.5
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 64 | 11/06/2014,stephen s,sam n,lego assistance,5.14
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 65 | 14/06/2014,todd,sam n,lego assistance,6.3
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 66 | 16/06/2014,stephen s,dan w,lunch,4.79
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 67 | 20/06/2014,ben b,chris w,rails consultancy,1.34
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 68 | 22/06/2014,tim l,stephen s,coffee,6.44
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 69 | 23/06/2014,stephen s,ben b,spline reticulation,11.85
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 70 | 26/06/2014,chris w,todd,beers,9.81
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 71 | 28/06/2014,sarah t,gergana i,beers,4.03
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 72 | 29/06/2014,chris w,laura b,jenkins fees,8.7
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 73 | 01/07/2014,rob s,jon a,lunch,2.67
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 74 | 02/07/2014,stephen s,dan w,lego assistance,2.9
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 75 | 06/07/2014,sam n,jon a,beers,4.37
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 76 | 09/07/2014,dan w,tim l,misc morale,5.45
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 77 | 11/07/2014,dan w,sarah t,misc morale,5.05
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 78 | 14/07/2014,gergana i,sam n,coffee,10.92
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 79 | 16/07/2014,jon a,dan w,coffee,11.75
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 80 | 18/07/2014,gergana i,stephen s,snooker night,11.57
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 81 | 22/07/2014,sarah t,ben b,coffee,11.56
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 82 | 23/07/2014,rob s,tim l,lego assistance,11.47
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 83 | 25/07/2014,laura b,stephen s,poker winnings,9.42
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 84 | 28/07/2014,gergana i,chris w,pokemon training,2.33
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 85 | 29/07/2014,jon a,sam n,lunch,5.31
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 86 | 01/08/2014,sam n,gergana i,coffee,2.72
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 87 | 03/08/2014,laura b,rob s,rails consultancy,6.26
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 88 | 04/08/2014,gergana i,ben b,coffee,7.81
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 89 | 08/08/2014,tim l,laura b,coffee,3.76
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 90 | 11/08/2014,stephen s,rob s,lunch,8.91
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 91 | 13/08/2014,sarah t,todd,beers,8.25
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 92 | 14/08/2014,chris w,tim l,misc morale,6.59
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 93 | 18/08/2014,jon a,tim l,lego assistance,7.22
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 94 | 21/08/2014,ben b,gergana i,rails consultancy,9.25
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 95 | 22/08/2014,chris w,sam n,golf bets,1.9
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 96 | 23/08/2014,ben b,stephen s,lunch,5.02
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 97 | 24/08/2014,laura b,stephen s,audit and other financial services,7.45
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 98 | 25/08/2014,gergana i,stephen s,beers,8.57
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 99 | 28/08/2014,laura b,tim l,beers,0.57
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 100 | 29/08/2014,ben b,chris w,lunch,1.66
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 101 | 01/09/2014,sam n,gergana i,pokemon training,9.41
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 102 | 03/09/2014,jon a,tim l,lunch,8.13
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 103 | 06/09/2014,dan w,todd,lunch,1.8
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 104 | 09/09/2014,todd,dan w,audit and other financial services,3.93
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 105 | 12/09/2014,laura b,jon a,git-fu rendered,3.11
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 106 | 16/09/2014,gergana i,rob s,golf bets,1.28
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 107 | 20/09/2014,jon a,ben b,beers,3.71
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 108 | 24/09/2014,jon a,laura b,golf bets,5.61
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 109 | 27/09/2014,sarah t,dan w,beers,11.6
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 110 | 29/09/2014,ben b,tim l,misc morale,3.43
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 111 | 30/09/2014,jon a,dan w,sandbox help,9.26
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 112 | 04/10/2014,ben b,todd,lunch,11.28
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 113 | 06/10/2014,sarah t,tim l,spline reticulation,7.44
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 114 | 10/10/2014,ben b,gergana i,beers,3.98
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 115 | 14/10/2014,ben b,gergana i,coffee,11.65
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 116 | 18/10/2014,gergana i,rob s,jenkins fees,5.47
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 117 | 19/10/2014,dan w,sam n,automated testing services,8
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 118 | 22/10/2014,dan w,sam n,beers,0.55
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 119 | 23/10/2014,jon a,dan w,lunch,2.37
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 120 | 25/10/2014,laura b,todd,beers,8.42
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 121 | 28/10/2014,gergana i,dan w,misc morale,5.04
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 122 | 29/10/2014,dan w,ben b,rails consultancy,5.87
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 123 | 30/10/2014,chris w,gergana i,jenkins fees,8.9
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 124 | 02/11/2014,sarah t,tim l,lego assistance,4.67
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 125 | 04/11/2014,chris w,rob s,sandbox help,6.15
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 126 | 07/11/2014,rob s,ben b,rails consultancy,3
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 127 | 09/11/2014,sam n,laura b,beers,7.76
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 128 | 11/11/2014,jon a,ben b,stationary items,0.73
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 129 | 14/11/2014,sam n,dan w,spline reticulation,0.8
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 130 | 18/11/2014,sam n,chris w,golf bets,6.44
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 131 | 19/11/2014,laura b,jon a,coffee,2.61
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 132 | 21/11/2014,chris w,todd,lego assistance,1.42
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 133 | 23/11/2014,todd,sarah t,beers,2.24
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 134 | 25/11/2014,chris w,rob s,pokemon training,5.76
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 135 | 28/11/2014,tim l,dan w,beers,8.76
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 136 | 02/12/2014,jon a,sam n,pokemon training,11.04
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 137 | 06/12/2014,gergana i,rob s,lego assistance,5.64
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 138 | 09/12/2014,jon a,chris w,pokemon training,2.26
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 139 | 12/12/2014,dan w,tim l,coffee,4.5
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 140 | 14/12/2014,gergana i,laura b,lunch,4.26
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 141 | 16/12/2014,todd,tim l,poker winnings,7.17
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 142 | 18/12/2014,chris w,ben b,coffee,11.17
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 143 | 20/12/2014,rob s,gergana i,lunch,1.07
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 144 | 21/12/2014,gergana i,laura b,pokemon training,6.86
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 145 | 22/12/2014,dan w,jon a,lunch,3.66
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 146 | 25/12/2014,todd,rob s,lego assistance,1.86
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 147 | 28/12/2014,ben b,laura b,coffee,1.44
+2021-11-18 14:58:54.1457 Info - SupportBank.Program: Parsing Line: 148 | 29/12/2014,ben b,sam n,coffee,5.26
+2021-11-18 14:59:30.4150 Info - SupportBank.Program: Running Program
+2021-11-18 14:59:30.4379 Info - SupportBank.Program: Reading File: C:\Work\Training\SupportBank\SupportBank\DodgyTransactions2015.csv
+2021-11-18 14:59:30.4484 Info - SupportBank.Program: Parsing Line: 1 | 01/01/2015,laura b,sarah t,misc morale,10.54
+2021-11-18 14:59:30.4484 Info - SupportBank.Program: Parsing Line: 2 | 04/01/2015,stephen s,gergana i,lunch,3.22
+2021-11-18 14:59:30.4484 Info - SupportBank.Program: Parsing Line: 3 | 07/01/2015,ben b,jon a,fantasy football,9.93
+2021-11-18 14:59:30.4484 Info - SupportBank.Program: Parsing Line: 4 | 11/01/2015,ben b,todd,lunch,7.33
+2021-11-18 14:59:30.4484 Info - SupportBank.Program: Parsing Line: 5 | 12/01/2015,laura b,ben b,beers,8.94
+2021-11-18 14:59:30.4484 Info - SupportBank.Program: Parsing Line: 6 | 15/01/2015,todd,rob s,beers,10.19
+2021-11-18 14:59:30.4484 Info - SupportBank.Program: Parsing Line: 7 | 16/01/2015,laura b,jon a,lego assistance,0.69
+2021-11-18 14:59:30.4484 Info - SupportBank.Program: Parsing Line: 8 | 18/01/2015,jon a,sarah t,coffee,10.73
+2021-11-18 14:59:30.4484 Info - SupportBank.Program: Parsing Line: 9 | 22/01/2015,gergana i,todd,coffee,0.8
+2021-11-18 14:59:30.4484 Info - SupportBank.Program: Parsing Line: 10 | 24/01/2015,gergana i,chris w,coffee,8.49
+2021-11-18 14:59:30.4484 Info - SupportBank.Program: Parsing Line: 11 | 27/01/2015,laura b,tim l,jenkins fees,0.52
+2021-11-18 14:59:30.4484 Info - SupportBank.Program: Parsing Line: 12 | 29/01/2015,sam n,chris w,lunch,9.01
+2021-11-18 14:59:30.4484 Info - SupportBank.Program: Parsing Line: 13 | 01/02/2015,stephen s,laura b,coffee,7.53
+2021-11-18 14:59:30.4484 Info - SupportBank.Program: Parsing Line: 14 | 02/02/2015,stephen s,rob s,fantasy football,7.43
+2021-11-18 14:59:30.4484 Info - SupportBank.Program: Parsing Line: 15 | 04/02/2015,rob s,stephen s,fantasy football,5.78
+2021-11-18 14:59:30.4484 Info - SupportBank.Program: Parsing Line: 16 | 06/02/2015,dan w,gergana i,automated testing services,10.29
+2021-11-18 14:59:30.4484 Info - SupportBank.Program: Parsing Line: 17 | 07/02/2015,jon a,chris w,rails consultancy,7.37
+2021-11-18 14:59:30.4484 Info - SupportBank.Program: Parsing Line: 18 | 10/02/2015,sam n,gergana i,sandbox help,9.84
+2021-11-18 14:59:30.4484 Info - SupportBank.Program: Parsing Line: 19 | 11/02/2015,chris w,stephen s,misc morale,0.68
+2021-11-18 14:59:30.4484 Info - SupportBank.Program: Parsing Line: 20 | 13/02/2015,laura b,gergana i,beers,6.56
+2021-11-18 14:59:30.4484 Info - SupportBank.Program: Parsing Line: 21 | 16/02/2015,chris w,dan w,jenkins fees,1.28
+2021-11-18 14:59:30.4484 Info - SupportBank.Program: Parsing Line: 22 | 17/02/2015,sarah t,dan w,sandbox help,11.48
+2021-11-18 14:59:30.4484 Info - SupportBank.Program: Parsing Line: 23 | 18/02/2015,stephen s,rob s,lego assistance,4.83
+2021-11-18 14:59:30.4484 Info - SupportBank.Program: Parsing Line: 24 | 21/02/2015,dan w,ben b,pokemon training,0.5
+2021-11-18 14:59:30.4484 Info - SupportBank.Program: Parsing Line: 25 | 24/02/2015,todd,gergana i,coffee,9.08
+2021-11-18 14:59:30.4484 Info - SupportBank.Program: Parsing Line: 26 | 26/02/2015,stephen s,jon a,pokemon training,4.23
+2021-11-18 14:59:30.4484 Info - SupportBank.Program: Parsing Line: 27 | 01/03/2015,ben b,sam n,lunch,one cheeseburger
+2021-11-18 15:03:08.5934 Info - SupportBank.Program: Running Program
+2021-11-18 15:03:08.6156 Info - SupportBank.Program: Reading File: C:\Work\Training\SupportBank\SupportBank\DodgyTransactions2015.csv
+2021-11-18 15:03:08.6262 Info - SupportBank.Program: Parsing Line: 2 | 01/01/2015,laura b,sarah t,misc morale,10.54
+2021-11-18 15:03:08.6262 Info - SupportBank.Program: Parsing Line: 3 | 04/01/2015,stephen s,gergana i,lunch,3.22
+2021-11-18 15:03:08.6262 Info - SupportBank.Program: Parsing Line: 4 | 07/01/2015,ben b,jon a,fantasy football,9.93
+2021-11-18 15:03:08.6262 Info - SupportBank.Program: Parsing Line: 5 | 11/01/2015,ben b,todd,lunch,7.33
+2021-11-18 15:03:08.6262 Info - SupportBank.Program: Parsing Line: 6 | 12/01/2015,laura b,ben b,beers,8.94
+2021-11-18 15:03:08.6262 Info - SupportBank.Program: Parsing Line: 7 | 15/01/2015,todd,rob s,beers,10.19
+2021-11-18 15:03:08.6262 Info - SupportBank.Program: Parsing Line: 8 | 16/01/2015,laura b,jon a,lego assistance,0.69
+2021-11-18 15:03:08.6262 Info - SupportBank.Program: Parsing Line: 9 | 18/01/2015,jon a,sarah t,coffee,10.73
+2021-11-18 15:03:08.6262 Info - SupportBank.Program: Parsing Line: 10 | 22/01/2015,gergana i,todd,coffee,0.8
+2021-11-18 15:03:08.6262 Info - SupportBank.Program: Parsing Line: 11 | 24/01/2015,gergana i,chris w,coffee,8.49
+2021-11-18 15:03:08.6262 Info - SupportBank.Program: Parsing Line: 12 | 27/01/2015,laura b,tim l,jenkins fees,0.52
+2021-11-18 15:03:08.6262 Info - SupportBank.Program: Parsing Line: 13 | 29/01/2015,sam n,chris w,lunch,9.01
+2021-11-18 15:03:08.6262 Info - SupportBank.Program: Parsing Line: 14 | 01/02/2015,stephen s,laura b,coffee,7.53
+2021-11-18 15:03:08.6262 Info - SupportBank.Program: Parsing Line: 15 | 02/02/2015,stephen s,rob s,fantasy football,7.43
+2021-11-18 15:03:08.6262 Info - SupportBank.Program: Parsing Line: 16 | 04/02/2015,rob s,stephen s,fantasy football,5.78
+2021-11-18 15:03:08.6262 Info - SupportBank.Program: Parsing Line: 17 | 06/02/2015,dan w,gergana i,automated testing services,10.29
+2021-11-18 15:03:08.6262 Info - SupportBank.Program: Parsing Line: 18 | 07/02/2015,jon a,chris w,rails consultancy,7.37
+2021-11-18 15:03:08.6262 Info - SupportBank.Program: Parsing Line: 19 | 10/02/2015,sam n,gergana i,sandbox help,9.84
+2021-11-18 15:03:08.6262 Info - SupportBank.Program: Parsing Line: 20 | 11/02/2015,chris w,stephen s,misc morale,0.68
+2021-11-18 15:03:08.6262 Info - SupportBank.Program: Parsing Line: 21 | 13/02/2015,laura b,gergana i,beers,6.56
+2021-11-18 15:03:08.6262 Info - SupportBank.Program: Parsing Line: 22 | 16/02/2015,chris w,dan w,jenkins fees,1.28
+2021-11-18 15:03:08.6262 Info - SupportBank.Program: Parsing Line: 23 | 17/02/2015,sarah t,dan w,sandbox help,11.48
+2021-11-18 15:03:08.6262 Info - SupportBank.Program: Parsing Line: 24 | 18/02/2015,stephen s,rob s,lego assistance,4.83
+2021-11-18 15:03:08.6262 Info - SupportBank.Program: Parsing Line: 25 | 21/02/2015,dan w,ben b,pokemon training,0.5
+2021-11-18 15:03:08.6262 Info - SupportBank.Program: Parsing Line: 26 | 24/02/2015,todd,gergana i,coffee,9.08
+2021-11-18 15:03:08.6262 Info - SupportBank.Program: Parsing Line: 27 | 26/02/2015,stephen s,jon a,pokemon training,4.23
+2021-11-18 15:03:08.6262 Info - SupportBank.Program: Parsing Line: 28 | 01/03/2015,ben b,sam n,lunch,one cheeseburger
+2021-11-18 15:03:35.5187 Info - SupportBank.Program: Running Program
+2021-11-18 15:03:35.5396 Info - SupportBank.Program: Reading File: C:\Work\Training\SupportBank\SupportBank\DodgyTransactions2015.csv
+2021-11-18 15:03:35.5494 Info - SupportBank.Program: Parsing Line: 2 | 01/01/2015,laura b,sarah t,misc morale,10.54
+2021-11-18 15:03:35.5494 Info - SupportBank.Program: Parsing Line: 3 | 04/01/2015,stephen s,gergana i,lunch,3.22
+2021-11-18 15:03:35.5494 Info - SupportBank.Program: Parsing Line: 4 | 07/01/2015,ben b,jon a,fantasy football,9.93
+2021-11-18 15:03:35.5494 Info - SupportBank.Program: Parsing Line: 5 | 11/01/2015,ben b,todd,lunch,7.33
+2021-11-18 15:03:35.5494 Info - SupportBank.Program: Parsing Line: 6 | 12/01/2015,laura b,ben b,beers,8.94
+2021-11-18 15:03:35.5494 Info - SupportBank.Program: Parsing Line: 7 | 15/01/2015,todd,rob s,beers,10.19
+2021-11-18 15:03:35.5494 Info - SupportBank.Program: Parsing Line: 8 | 16/01/2015,laura b,jon a,lego assistance,0.69
+2021-11-18 15:03:35.5494 Info - SupportBank.Program: Parsing Line: 9 | 18/01/2015,jon a,sarah t,coffee,10.73
+2021-11-18 15:03:35.5494 Info - SupportBank.Program: Parsing Line: 10 | 22/01/2015,gergana i,todd,coffee,0.8
+2021-11-18 15:03:35.5494 Info - SupportBank.Program: Parsing Line: 11 | 24/01/2015,gergana i,chris w,coffee,8.49
+2021-11-18 15:03:35.5494 Info - SupportBank.Program: Parsing Line: 12 | 27/01/2015,laura b,tim l,jenkins fees,0.52
+2021-11-18 15:03:35.5494 Info - SupportBank.Program: Parsing Line: 13 | 29/01/2015,sam n,chris w,lunch,9.01
+2021-11-18 15:03:35.5494 Info - SupportBank.Program: Parsing Line: 14 | 01/02/2015,stephen s,laura b,coffee,7.53
+2021-11-18 15:03:35.5494 Info - SupportBank.Program: Parsing Line: 15 | 02/02/2015,stephen s,rob s,fantasy football,7.43
+2021-11-18 15:03:35.5494 Info - SupportBank.Program: Parsing Line: 16 | 04/02/2015,rob s,stephen s,fantasy football,5.78
+2021-11-18 15:03:35.5494 Info - SupportBank.Program: Parsing Line: 17 | 06/02/2015,dan w,gergana i,automated testing services,10.29
+2021-11-18 15:03:35.5494 Info - SupportBank.Program: Parsing Line: 18 | 07/02/2015,jon a,chris w,rails consultancy,7.37
+2021-11-18 15:03:35.5494 Info - SupportBank.Program: Parsing Line: 19 | 10/02/2015,sam n,gergana i,sandbox help,9.84
+2021-11-18 15:03:35.5494 Info - SupportBank.Program: Parsing Line: 20 | 11/02/2015,chris w,stephen s,misc morale,0.68
+2021-11-18 15:03:35.5494 Info - SupportBank.Program: Parsing Line: 21 | 13/02/2015,laura b,gergana i,beers,6.56
+2021-11-18 15:03:35.5494 Info - SupportBank.Program: Parsing Line: 22 | 16/02/2015,chris w,dan w,jenkins fees,1.28
+2021-11-18 15:03:35.5494 Info - SupportBank.Program: Parsing Line: 23 | 17/02/2015,sarah t,dan w,sandbox help,11.48
+2021-11-18 15:03:35.5494 Info - SupportBank.Program: Parsing Line: 24 | 18/02/2015,stephen s,rob s,lego assistance,4.83
+2021-11-18 15:03:35.5494 Info - SupportBank.Program: Parsing Line: 25 | 21/02/2015,dan w,ben b,pokemon training,0.5
+2021-11-18 15:03:35.5494 Info - SupportBank.Program: Parsing Line: 26 | 24/02/2015,todd,gergana i,coffee,9.08
+2021-11-18 15:03:35.5494 Info - SupportBank.Program: Parsing Line: 27 | 26/02/2015,stephen s,jon a,pokemon training,4.23
+2021-11-18 15:03:35.5494 Info - SupportBank.Program: Parsing Line: 28 | 01/03/2015,ben b,sam n,lunch,4.2
+2021-11-18 15:03:35.5494 Info - SupportBank.Program: Parsing Line: 29 | 02/03/2015,todd,chris w,sandbox help,1.92
+2021-11-18 15:03:35.5494 Info - SupportBank.Program: Parsing Line: 30 | 04/03/2015,laura b,jon a,sandcastle help,9.09
+2021-11-18 15:03:35.5494 Info - SupportBank.Program: Parsing Line: 31 | 06/03/2015,stephen s,gergana i,lego assistance,9.4
+2021-11-18 15:03:35.5494 Info - SupportBank.Program: Parsing Line: 32 | 08/03/2015,ben b,sam n,pokemon training,11.32
+2021-11-18 15:03:35.5494 Info - SupportBank.Program: Parsing Line: 33 | 11/03/2015,stephen s,jon a,sandcastle help,11.57
+2021-11-18 15:03:35.5494 Info - SupportBank.Program: Parsing Line: 34 | 15/03/2015,todd,sam n,pokemon training,2.29
+2021-11-18 15:03:35.5494 Info - SupportBank.Program: Parsing Line: 35 | 19/03/2015,laura b,chris w,coffee,9.96
+2021-11-18 15:03:35.5494 Info - SupportBank.Program: Parsing Line: 36 | 21/03/2015,jon a,gergana i,beers,7.54
+2021-11-18 15:03:35.5494 Info - SupportBank.Program: Parsing Line: 37 | 25/03/2015,gergana i,ben b,automated testing services,2.39
+2021-11-18 15:03:35.5494 Info - SupportBank.Program: Parsing Line: 38 | 28/03/2015,stephen s,tim l,lunch,5.83
+2021-11-18 15:03:35.5494 Info - SupportBank.Program: Parsing Line: 39 | 29/03/2015,gergana i,ben b,audit and other financial services,10.85
+2021-11-18 15:03:35.5494 Info - SupportBank.Program: Parsing Line: 40 | 30/03/2015,tim l,todd,pokemon training,8.6
+2021-11-18 15:03:35.5494 Info - SupportBank.Program: Parsing Line: 41 | 02/04/2015,stephen s,chris w,pokemon training,1.11
+2021-11-18 15:03:35.5494 Info - SupportBank.Program: Parsing Line: 42 | 05/04/2015,chris w,ben b,lunch,0.96
+2021-11-18 15:03:35.5494 Info - SupportBank.Program: Parsing Line: 43 | 09/04/2015,chris w,rob s,audit and other financial services,11.79
+2021-11-18 15:03:35.5494 Info - SupportBank.Program: Parsing Line: 44 | 12/04/2015,gergana i,laura b,stationary items,8.37
+2021-11-18 15:03:35.5494 Info - SupportBank.Program: Parsing Line: 45 | 13/04/2015,laura b,tim l,services rendered,1.27
+2021-11-18 15:03:35.5494 Info - SupportBank.Program: Parsing Line: 46 | 15/04/2015,ben b,sam n,lego assistance,8.5
+2021-11-18 15:03:35.5494 Info - SupportBank.Program: Parsing Line: 47 | 19/04/2015,stephen s,chris w,white water rafting,8.91
+2021-11-18 15:03:35.5494 Info - SupportBank.Program: Parsing Line: 48 | 23/04/2015,tim l,todd,misc morale,8.1
+2021-11-18 15:03:35.5494 Info - SupportBank.Program: Parsing Line: 49 | 24/04/2015,tim l,sarah t,arcade social,6.38
+2021-11-18 15:03:35.5494 Info - SupportBank.Program: Parsing Line: 50 | 26/04/2015,jon a,todd,stationary items,8.44
+2021-11-18 15:03:35.5494 Info - SupportBank.Program: Parsing Line: 51 | 27/04/2015,ben b,jon a,pokemon training,10.91
+2021-11-18 15:03:35.5494 Info - SupportBank.Program: Parsing Line: 52 | last thursday,sarah t,dan w,beers,5.42
+2021-11-18 15:03:43.8961 Info - SupportBank.Program: Running Program
+2021-11-18 15:03:43.9122 Info - SupportBank.Program: Reading File: C:\Work\Training\SupportBank\SupportBank\DodgyTransactions2015.csv
+2021-11-18 15:03:43.9222 Info - SupportBank.Program: Parsing Line: 2 | 01/01/2015,laura b,sarah t,misc morale,10.54
+2021-11-18 15:03:43.9222 Info - SupportBank.Program: Parsing Line: 3 | 04/01/2015,stephen s,gergana i,lunch,3.22
+2021-11-18 15:03:43.9222 Info - SupportBank.Program: Parsing Line: 4 | 07/01/2015,ben b,jon a,fantasy football,9.93
+2021-11-18 15:03:43.9222 Info - SupportBank.Program: Parsing Line: 5 | 11/01/2015,ben b,todd,lunch,7.33
+2021-11-18 15:03:43.9222 Info - SupportBank.Program: Parsing Line: 6 | 12/01/2015,laura b,ben b,beers,8.94
+2021-11-18 15:03:43.9222 Info - SupportBank.Program: Parsing Line: 7 | 15/01/2015,todd,rob s,beers,10.19
+2021-11-18 15:03:43.9222 Info - SupportBank.Program: Parsing Line: 8 | 16/01/2015,laura b,jon a,lego assistance,0.69
+2021-11-18 15:03:43.9222 Info - SupportBank.Program: Parsing Line: 9 | 18/01/2015,jon a,sarah t,coffee,10.73
+2021-11-18 15:03:43.9222 Info - SupportBank.Program: Parsing Line: 10 | 22/01/2015,gergana i,todd,coffee,0.8
+2021-11-18 15:03:43.9222 Info - SupportBank.Program: Parsing Line: 11 | 24/01/2015,gergana i,chris w,coffee,8.49
+2021-11-18 15:03:43.9222 Info - SupportBank.Program: Parsing Line: 12 | 27/01/2015,laura b,tim l,jenkins fees,0.52
+2021-11-18 15:03:43.9222 Info - SupportBank.Program: Parsing Line: 13 | 29/01/2015,sam n,chris w,lunch,9.01
+2021-11-18 15:03:43.9222 Info - SupportBank.Program: Parsing Line: 14 | 01/02/2015,stephen s,laura b,coffee,7.53
+2021-11-18 15:03:43.9222 Info - SupportBank.Program: Parsing Line: 15 | 02/02/2015,stephen s,rob s,fantasy football,7.43
+2021-11-18 15:03:43.9222 Info - SupportBank.Program: Parsing Line: 16 | 04/02/2015,rob s,stephen s,fantasy football,5.78
+2021-11-18 15:03:43.9222 Info - SupportBank.Program: Parsing Line: 17 | 06/02/2015,dan w,gergana i,automated testing services,10.29
+2021-11-18 15:03:43.9222 Info - SupportBank.Program: Parsing Line: 18 | 07/02/2015,jon a,chris w,rails consultancy,7.37
+2021-11-18 15:03:43.9222 Info - SupportBank.Program: Parsing Line: 19 | 10/02/2015,sam n,gergana i,sandbox help,9.84
+2021-11-18 15:03:43.9222 Info - SupportBank.Program: Parsing Line: 20 | 11/02/2015,chris w,stephen s,misc morale,0.68
+2021-11-18 15:03:43.9222 Info - SupportBank.Program: Parsing Line: 21 | 13/02/2015,laura b,gergana i,beers,6.56
+2021-11-18 15:03:43.9222 Info - SupportBank.Program: Parsing Line: 22 | 16/02/2015,chris w,dan w,jenkins fees,1.28
+2021-11-18 15:03:43.9222 Info - SupportBank.Program: Parsing Line: 23 | 17/02/2015,sarah t,dan w,sandbox help,11.48
+2021-11-18 15:03:43.9222 Info - SupportBank.Program: Parsing Line: 24 | 18/02/2015,stephen s,rob s,lego assistance,4.83
+2021-11-18 15:03:43.9222 Info - SupportBank.Program: Parsing Line: 25 | 21/02/2015,dan w,ben b,pokemon training,0.5
+2021-11-18 15:03:43.9222 Info - SupportBank.Program: Parsing Line: 26 | 24/02/2015,todd,gergana i,coffee,9.08
+2021-11-18 15:03:43.9222 Info - SupportBank.Program: Parsing Line: 27 | 26/02/2015,stephen s,jon a,pokemon training,4.23
+2021-11-18 15:03:43.9222 Info - SupportBank.Program: Parsing Line: 28 | 01/03/2015,ben b,sam n,lunch,4.2
+2021-11-18 15:03:43.9222 Info - SupportBank.Program: Parsing Line: 29 | 02/03/2015,todd,chris w,sandbox help,1.92
+2021-11-18 15:03:43.9222 Info - SupportBank.Program: Parsing Line: 30 | 04/03/2015,laura b,jon a,sandcastle help,9.09
+2021-11-18 15:03:43.9222 Info - SupportBank.Program: Parsing Line: 31 | 06/03/2015,stephen s,gergana i,lego assistance,9.4
+2021-11-18 15:03:43.9222 Info - SupportBank.Program: Parsing Line: 32 | 08/03/2015,ben b,sam n,pokemon training,11.32
+2021-11-18 15:03:43.9222 Info - SupportBank.Program: Parsing Line: 33 | 11/03/2015,stephen s,jon a,sandcastle help,11.57
+2021-11-18 15:03:43.9222 Info - SupportBank.Program: Parsing Line: 34 | 15/03/2015,todd,sam n,pokemon training,2.29
+2021-11-18 15:03:43.9222 Info - SupportBank.Program: Parsing Line: 35 | 19/03/2015,laura b,chris w,coffee,9.96
+2021-11-18 15:03:43.9222 Info - SupportBank.Program: Parsing Line: 36 | 21/03/2015,jon a,gergana i,beers,7.54
+2021-11-18 15:03:43.9222 Info - SupportBank.Program: Parsing Line: 37 | 25/03/2015,gergana i,ben b,automated testing services,2.39
+2021-11-18 15:03:43.9222 Info - SupportBank.Program: Parsing Line: 38 | 28/03/2015,stephen s,tim l,lunch,5.83
+2021-11-18 15:03:43.9222 Info - SupportBank.Program: Parsing Line: 39 | 29/03/2015,gergana i,ben b,audit and other financial services,10.85
+2021-11-18 15:03:43.9222 Info - SupportBank.Program: Parsing Line: 40 | 30/03/2015,tim l,todd,pokemon training,8.6
+2021-11-18 15:03:43.9222 Info - SupportBank.Program: Parsing Line: 41 | 02/04/2015,stephen s,chris w,pokemon training,1.11
+2021-11-18 15:03:43.9222 Info - SupportBank.Program: Parsing Line: 42 | 05/04/2015,chris w,ben b,lunch,0.96
+2021-11-18 15:03:43.9222 Info - SupportBank.Program: Parsing Line: 43 | 09/04/2015,chris w,rob s,audit and other financial services,11.79
+2021-11-18 15:03:43.9222 Info - SupportBank.Program: Parsing Line: 44 | 12/04/2015,gergana i,laura b,stationary items,8.37
+2021-11-18 15:03:43.9222 Info - SupportBank.Program: Parsing Line: 45 | 13/04/2015,laura b,tim l,services rendered,1.27
+2021-11-18 15:03:43.9222 Info - SupportBank.Program: Parsing Line: 46 | 15/04/2015,ben b,sam n,lego assistance,8.5
+2021-11-18 15:03:43.9222 Info - SupportBank.Program: Parsing Line: 47 | 19/04/2015,stephen s,chris w,white water rafting,8.91
+2021-11-18 15:03:43.9222 Info - SupportBank.Program: Parsing Line: 48 | 23/04/2015,tim l,todd,misc morale,8.1
+2021-11-18 15:03:43.9222 Info - SupportBank.Program: Parsing Line: 49 | 24/04/2015,tim l,sarah t,arcade social,6.38
+2021-11-18 15:03:43.9222 Info - SupportBank.Program: Parsing Line: 50 | 26/04/2015,jon a,todd,stationary items,8.44
+2021-11-18 15:03:43.9222 Info - SupportBank.Program: Parsing Line: 51 | 27/04/2015,ben b,jon a,pokemon training,10.91
+2021-11-18 15:03:43.9222 Info - SupportBank.Program: Parsing Line: 52 | last thursday,sarah t,dan w,beers,5.42
+2021-11-18 15:09:52.9480 Info - SupportBank.Program: Running Program
+2021-11-18 15:09:52.9701 Info - SupportBank.Program: Reading File: C:\Work\Training\SupportBank\SupportBank\DodgyTransactions2015.csv
+2021-11-18 15:09:52.9701 Info - SupportBank.Program: Parsing Line: 2 | 01/01/2015,laura b,sarah t,misc morale,10.54
+2021-11-18 15:09:52.9816 Info - SupportBank.Program: Parsing Line: 3 | 04/01/2015,stephen s,gergana i,lunch,3.22
+2021-11-18 15:09:52.9816 Info - SupportBank.Program: Parsing Line: 4 | 07/01/2015,ben b,jon a,fantasy football,9.93
+2021-11-18 15:09:52.9816 Info - SupportBank.Program: Parsing Line: 5 | 11/01/2015,ben b,todd,lunch,7.33
+2021-11-18 15:09:52.9816 Info - SupportBank.Program: Parsing Line: 6 | 12/01/2015,laura b,ben b,beers,8.94
+2021-11-18 15:09:52.9816 Info - SupportBank.Program: Parsing Line: 7 | 15/01/2015,todd,rob s,beers,10.19
+2021-11-18 15:09:52.9816 Info - SupportBank.Program: Parsing Line: 8 | 16/01/2015,laura b,jon a,lego assistance,0.69
+2021-11-18 15:09:52.9816 Info - SupportBank.Program: Parsing Line: 9 | 18/01/2015,jon a,sarah t,coffee,10.73
+2021-11-18 15:09:52.9816 Info - SupportBank.Program: Parsing Line: 10 | 22/01/2015,gergana i,todd,coffee,0.8
+2021-11-18 15:09:52.9816 Info - SupportBank.Program: Parsing Line: 11 | 24/01/2015,gergana i,chris w,coffee,8.49
+2021-11-18 15:09:52.9816 Info - SupportBank.Program: Parsing Line: 12 | 27/01/2015,laura b,tim l,jenkins fees,0.52
+2021-11-18 15:09:52.9816 Info - SupportBank.Program: Parsing Line: 13 | 29/01/2015,sam n,chris w,lunch,9.01
+2021-11-18 15:09:52.9816 Info - SupportBank.Program: Parsing Line: 14 | 01/02/2015,stephen s,laura b,coffee,7.53
+2021-11-18 15:09:52.9816 Info - SupportBank.Program: Parsing Line: 15 | 02/02/2015,stephen s,rob s,fantasy football,7.43
+2021-11-18 15:09:52.9816 Info - SupportBank.Program: Parsing Line: 16 | 04/02/2015,rob s,stephen s,fantasy football,5.78
+2021-11-18 15:09:52.9816 Info - SupportBank.Program: Parsing Line: 17 | 06/02/2015,dan w,gergana i,automated testing services,10.29
+2021-11-18 15:09:52.9816 Info - SupportBank.Program: Parsing Line: 18 | 07/02/2015,jon a,chris w,rails consultancy,7.37
+2021-11-18 15:09:52.9816 Info - SupportBank.Program: Parsing Line: 19 | 10/02/2015,sam n,gergana i,sandbox help,9.84
+2021-11-18 15:09:52.9816 Info - SupportBank.Program: Parsing Line: 20 | 11/02/2015,chris w,stephen s,misc morale,0.68
+2021-11-18 15:09:52.9816 Info - SupportBank.Program: Parsing Line: 21 | 13/02/2015,laura b,gergana i,beers,6.56
+2021-11-18 15:09:52.9816 Info - SupportBank.Program: Parsing Line: 22 | 16/02/2015,chris w,dan w,jenkins fees,1.28
+2021-11-18 15:09:52.9816 Info - SupportBank.Program: Parsing Line: 23 | 17/02/2015,sarah t,dan w,sandbox help,11.48
+2021-11-18 15:09:52.9816 Info - SupportBank.Program: Parsing Line: 24 | 18/02/2015,stephen s,rob s,lego assistance,4.83
+2021-11-18 15:09:52.9816 Info - SupportBank.Program: Parsing Line: 25 | 21/02/2015,dan w,ben b,pokemon training,0.5
+2021-11-18 15:09:52.9816 Info - SupportBank.Program: Parsing Line: 26 | 24/02/2015,todd,gergana i,coffee,9.08
+2021-11-18 15:09:52.9816 Info - SupportBank.Program: Parsing Line: 27 | 26/02/2015,stephen s,jon a,pokemon training,4.23
+2021-11-18 15:09:52.9816 Info - SupportBank.Program: Parsing Line: 28 | 01/03/2015,ben b,sam n,lunch,one cheeseburger
+2021-11-18 15:10:16.6136 Info - SupportBank.Program: Running Program
+2021-11-18 15:10:16.6356 Info - SupportBank.Program: Reading File: C:\Work\Training\SupportBank\SupportBank\DodgyTransactions2015.csv
+2021-11-18 15:10:16.6459 Info - SupportBank.Program: Parsing Line: 2 | 01/01/2015,laura b,sarah t,misc morale,10.54
+2021-11-18 15:10:16.6459 Info - SupportBank.Program: Parsing Line: 3 | 04/01/2015,stephen s,gergana i,lunch,3.22
+2021-11-18 15:10:16.6459 Info - SupportBank.Program: Parsing Line: 4 | 07/01/2015,ben b,jon a,fantasy football,9.93
+2021-11-18 15:10:16.6459 Info - SupportBank.Program: Parsing Line: 5 | 11/01/2015,ben b,todd,lunch,7.33
+2021-11-18 15:10:16.6459 Info - SupportBank.Program: Parsing Line: 6 | 12/01/2015,laura b,ben b,beers,8.94
+2021-11-18 15:10:16.6459 Info - SupportBank.Program: Parsing Line: 7 | 15/01/2015,todd,rob s,beers,10.19
+2021-11-18 15:10:16.6459 Info - SupportBank.Program: Parsing Line: 8 | 16/01/2015,laura b,jon a,lego assistance,0.69
+2021-11-18 15:10:16.6459 Info - SupportBank.Program: Parsing Line: 9 | 18/01/2015,jon a,sarah t,coffee,10.73
+2021-11-18 15:10:16.6459 Info - SupportBank.Program: Parsing Line: 10 | 22/01/2015,gergana i,todd,coffee,0.8
+2021-11-18 15:10:16.6459 Info - SupportBank.Program: Parsing Line: 11 | 24/01/2015,gergana i,chris w,coffee,8.49
+2021-11-18 15:10:16.6459 Info - SupportBank.Program: Parsing Line: 12 | 27/01/2015,laura b,tim l,jenkins fees,0.52
+2021-11-18 15:10:16.6459 Info - SupportBank.Program: Parsing Line: 13 | 29/01/2015,sam n,chris w,lunch,9.01
+2021-11-18 15:10:16.6459 Info - SupportBank.Program: Parsing Line: 14 | 01/02/2015,stephen s,laura b,coffee,7.53
+2021-11-18 15:10:16.6459 Info - SupportBank.Program: Parsing Line: 15 | 02/02/2015,stephen s,rob s,fantasy football,7.43
+2021-11-18 15:10:16.6459 Info - SupportBank.Program: Parsing Line: 16 | 04/02/2015,rob s,stephen s,fantasy football,5.78
+2021-11-18 15:10:16.6459 Info - SupportBank.Program: Parsing Line: 17 | 06/02/2015,dan w,gergana i,automated testing services,10.29
+2021-11-18 15:10:16.6459 Info - SupportBank.Program: Parsing Line: 18 | 07/02/2015,jon a,chris w,rails consultancy,7.37
+2021-11-18 15:10:16.6459 Info - SupportBank.Program: Parsing Line: 19 | 10/02/2015,sam n,gergana i,sandbox help,9.84
+2021-11-18 15:10:16.6459 Info - SupportBank.Program: Parsing Line: 20 | 11/02/2015,chris w,stephen s,misc morale,0.68
+2021-11-18 15:10:16.6459 Info - SupportBank.Program: Parsing Line: 21 | 13/02/2015,laura b,gergana i,beers,6.56
+2021-11-18 15:10:16.6459 Info - SupportBank.Program: Parsing Line: 22 | 16/02/2015,chris w,dan w,jenkins fees,1.28
+2021-11-18 15:10:16.6459 Info - SupportBank.Program: Parsing Line: 23 | 17/02/2015,sarah t,dan w,sandbox help,11.48
+2021-11-18 15:10:16.6459 Info - SupportBank.Program: Parsing Line: 24 | 18/02/2015,stephen s,rob s,lego assistance,4.83
+2021-11-18 15:10:16.6459 Info - SupportBank.Program: Parsing Line: 25 | 21/02/2015,dan w,ben b,pokemon training,0.5
+2021-11-18 15:10:16.6459 Info - SupportBank.Program: Parsing Line: 26 | 24/02/2015,todd,gergana i,coffee,9.08
+2021-11-18 15:10:16.6459 Info - SupportBank.Program: Parsing Line: 27 | 26/02/2015,stephen s,jon a,pokemon training,4.23
+2021-11-18 15:10:16.6459 Info - SupportBank.Program: Parsing Line: 28 | 01/03/2015,ben b,sam n,lunch,one cheeseburger
+2021-11-18 15:10:26.5621 Info - SupportBank.Program: Running Program
+2021-11-18 15:10:26.5837 Info - SupportBank.Program: Reading File: C:\Work\Training\SupportBank\SupportBank\DodgyTransactions2015.csv
+2021-11-18 15:10:26.5837 Info - SupportBank.Program: Parsing Line: 2 | 01/01/2015,laura b,sarah t,misc morale,10.54
+2021-11-18 15:10:26.5945 Info - SupportBank.Program: Parsing Line: 3 | 04/01/2015,stephen s,gergana i,lunch,3.22
+2021-11-18 15:10:26.5945 Info - SupportBank.Program: Parsing Line: 4 | 07/01/2015,ben b,jon a,fantasy football,9.93
+2021-11-18 15:10:26.5945 Info - SupportBank.Program: Parsing Line: 5 | 11/01/2015,ben b,todd,lunch,7.33
+2021-11-18 15:10:26.5945 Info - SupportBank.Program: Parsing Line: 6 | 12/01/2015,laura b,ben b,beers,8.94
+2021-11-18 15:10:26.5945 Info - SupportBank.Program: Parsing Line: 7 | 15/01/2015,todd,rob s,beers,10.19
+2021-11-18 15:10:26.5945 Info - SupportBank.Program: Parsing Line: 8 | 16/01/2015,laura b,jon a,lego assistance,0.69
+2021-11-18 15:10:26.5945 Info - SupportBank.Program: Parsing Line: 9 | 18/01/2015,jon a,sarah t,coffee,10.73
+2021-11-18 15:10:26.5945 Info - SupportBank.Program: Parsing Line: 10 | 22/01/2015,gergana i,todd,coffee,0.8
+2021-11-18 15:10:26.5945 Info - SupportBank.Program: Parsing Line: 11 | 24/01/2015,gergana i,chris w,coffee,8.49
+2021-11-18 15:10:26.5945 Info - SupportBank.Program: Parsing Line: 12 | 27/01/2015,laura b,tim l,jenkins fees,0.52
+2021-11-18 15:10:26.5945 Info - SupportBank.Program: Parsing Line: 13 | 29/01/2015,sam n,chris w,lunch,9.01
+2021-11-18 15:10:26.5945 Info - SupportBank.Program: Parsing Line: 14 | 01/02/2015,stephen s,laura b,coffee,7.53
+2021-11-18 15:10:26.5945 Info - SupportBank.Program: Parsing Line: 15 | 02/02/2015,stephen s,rob s,fantasy football,7.43
+2021-11-18 15:10:26.5945 Info - SupportBank.Program: Parsing Line: 16 | 04/02/2015,rob s,stephen s,fantasy football,5.78
+2021-11-18 15:10:26.5945 Info - SupportBank.Program: Parsing Line: 17 | 06/02/2015,dan w,gergana i,automated testing services
+2021-11-18 15:10:26.5945 Error - SupportBank.Program: Incorrect number of fields on line: 17 | 06/02/2015,dan w,gergana i,automated testing servicesin: C:\Work\Training\SupportBank\SupportBank\DodgyTransactions2015.csv
+2021-11-18 15:10:51.4400 Info - SupportBank.Program: Running Program
+2021-11-18 15:10:51.4623 Info - SupportBank.Program: Reading File: C:\Work\Training\SupportBank\SupportBank\DodgyTransactions2015.csv
+2021-11-18 15:10:51.4731 Info - SupportBank.Program: Parsing Line: 2 | 01/01/2015,laura b,sarah t,misc morale,10.54
+2021-11-18 15:10:51.4731 Info - SupportBank.Program: Parsing Line: 3 | 04/01/2015,stephen s,gergana i,lunch,3.22
+2021-11-18 15:10:51.4731 Info - SupportBank.Program: Parsing Line: 4 | 07/01/2015,ben b,jon a,fantasy football,9.93
+2021-11-18 15:10:51.4731 Info - SupportBank.Program: Parsing Line: 5 | 11/01/2015,ben b,todd,lunch,7.33
+2021-11-18 15:10:51.4731 Info - SupportBank.Program: Parsing Line: 6 | 12/01/2015,laura b,ben b,beers,8.94
+2021-11-18 15:10:51.4731 Info - SupportBank.Program: Parsing Line: 7 | 15/01/2015,todd,rob s,beers,10.19
+2021-11-18 15:10:51.4731 Info - SupportBank.Program: Parsing Line: 8 | 16/01/2015,laura b,jon a,lego assistance,0.69
+2021-11-18 15:10:51.4731 Info - SupportBank.Program: Parsing Line: 9 | 18/01/2015,jon a,sarah t,coffee,10.73
+2021-11-18 15:10:51.4731 Info - SupportBank.Program: Parsing Line: 10 | 22/01/2015,gergana i,todd,coffee,0.8
+2021-11-18 15:10:51.4731 Info - SupportBank.Program: Parsing Line: 11 | 24/01/2015,gergana i,chris w,coffee,8.49
+2021-11-18 15:10:51.4731 Info - SupportBank.Program: Parsing Line: 12 | 27/01/2015,laura b,tim l,jenkins fees,0.52
+2021-11-18 15:10:51.4731 Info - SupportBank.Program: Parsing Line: 13 | 29/01/2015,sam n,chris w,lunch,9.01
+2021-11-18 15:10:51.4731 Info - SupportBank.Program: Parsing Line: 14 | 01/02/2015,stephen s,laura b,coffee,7.53
+2021-11-18 15:10:51.4731 Info - SupportBank.Program: Parsing Line: 15 | 02/02/2015,stephen s,rob s,fantasy football,7.43
+2021-11-18 15:10:51.4731 Info - SupportBank.Program: Parsing Line: 16 | 04/02/2015,rob s,stephen s,fantasy football,5.78
+2021-11-18 15:10:51.4731 Info - SupportBank.Program: Parsing Line: 17 | 06/02/2015,dan w,gergana i,automated testing services,10.29
+2021-11-18 15:10:51.4731 Info - SupportBank.Program: Parsing Line: 18 | 07/02/2015,jon a,chris w,rails consultancy,7.37
+2021-11-18 15:10:51.4731 Info - SupportBank.Program: Parsing Line: 19 | 10/02/2015,sam n,gergana i,sandbox help,9.84
+2021-11-18 15:10:51.4731 Info - SupportBank.Program: Parsing Line: 20 | 11/02/2015,chris w,stephen s,misc morale,0.68
+2021-11-18 15:10:51.4731 Info - SupportBank.Program: Parsing Line: 21 | 13/02/2015,laura b,gergana i,beers,6.56
+2021-11-18 15:10:51.4731 Info - SupportBank.Program: Parsing Line: 22 | 16/02/2015,chris w,dan w,jenkins fees,1.28
+2021-11-18 15:10:51.4731 Info - SupportBank.Program: Parsing Line: 23 | 17/02/2015,sarah t,dan w,sandbox help,11.48
+2021-11-18 15:10:51.4731 Info - SupportBank.Program: Parsing Line: 24 | 18/02/2015,stephen s,rob s,lego assistance,4.83
+2021-11-18 15:10:51.4731 Info - SupportBank.Program: Parsing Line: 25 | 21/02/2015,dan w,ben b,pokemon training,0.5
+2021-11-18 15:10:51.4731 Info - SupportBank.Program: Parsing Line: 26 | 24/02/2015,todd,gergana i,coffee,9.08
+2021-11-18 15:10:51.4731 Info - SupportBank.Program: Parsing Line: 27 | 26/02/2015,stephen s,jon a,pokemon training,4.23
+2021-11-18 15:10:51.4731 Info - SupportBank.Program: Parsing Line: 28 | 01/03/2015,ben b,sam n,lunch,one cheeseburger
+2021-11-18 15:13:20.7501 Info - SupportBank.Program: Running Program
+2021-11-18 15:13:20.7718 Info - SupportBank.Program: Reading File: C:\Work\Training\SupportBank\SupportBank\DodgyTransactions2015.csv
+2021-11-18 15:13:20.7824 Info - SupportBank.Program: Parsing Line: 2 | 01/01/2015,laura b,sarah t,misc morale,10.54
+2021-11-18 15:13:20.7824 Info - SupportBank.Program: Parsing Line: 3 | 04/01/2015,stephen s,gergana i,lunch,3.22
+2021-11-18 15:13:20.7824 Info - SupportBank.Program: Parsing Line: 4 | 07/01/2015,ben b,jon a,fantasy football,9.93
+2021-11-18 15:13:20.7824 Info - SupportBank.Program: Parsing Line: 5 | 11/01/2015,ben b,todd,lunch,7.33
+2021-11-18 15:13:20.7824 Info - SupportBank.Program: Parsing Line: 6 | 12/01/2015,laura b,ben b,beers,8.94
+2021-11-18 15:13:20.7824 Info - SupportBank.Program: Parsing Line: 7 | 15/01/2015,todd,rob s,beers,10.19
+2021-11-18 15:13:20.7824 Info - SupportBank.Program: Parsing Line: 8 | 16/01/2015,laura b,jon a,lego assistance,0.69
+2021-11-18 15:13:20.7824 Info - SupportBank.Program: Parsing Line: 9 | 18/01/2015,jon a,sarah t,coffee,10.73
+2021-11-18 15:13:20.7824 Info - SupportBank.Program: Parsing Line: 10 | 22/01/2015,gergana i,todd,coffee,0.8
+2021-11-18 15:13:20.7824 Info - SupportBank.Program: Parsing Line: 11 | 24/01/2015,gergana i,chris w,coffee,8.49
+2021-11-18 15:13:20.7824 Info - SupportBank.Program: Parsing Line: 12 | 27/01/2015,laura b,tim l,jenkins fees,0.52
+2021-11-18 15:13:20.7824 Info - SupportBank.Program: Parsing Line: 13 | 29/01/2015,sam n,chris w,lunch,9.01
+2021-11-18 15:13:20.7824 Info - SupportBank.Program: Parsing Line: 14 | 01/02/2015,stephen s,laura b,coffee,7.53
+2021-11-18 15:13:20.7824 Info - SupportBank.Program: Parsing Line: 15 | 02/02/2015,stephen s,rob s,fantasy football,7.43
+2021-11-18 15:13:20.7824 Info - SupportBank.Program: Parsing Line: 16 | 04/02/2015,rob s,stephen s,fantasy football,5.78
+2021-11-18 15:13:20.7824 Info - SupportBank.Program: Parsing Line: 17 | 06/02/2015,dan w,gergana i,automated testing services,10.29
+2021-11-18 15:13:20.7824 Info - SupportBank.Program: Parsing Line: 18 | 07/02/2015,jon a,chris w,rails consultancy,7.37
+2021-11-18 15:13:20.7824 Info - SupportBank.Program: Parsing Line: 19 | 10/02/2015,sam n,gergana i,sandbox help,9.84
+2021-11-18 15:13:20.7824 Info - SupportBank.Program: Parsing Line: 20 | 11/02/2015,chris w,stephen s,misc morale,0.68
+2021-11-18 15:13:20.7824 Info - SupportBank.Program: Parsing Line: 21 | 13/02/2015,laura b,gergana i,beers,6.56
+2021-11-18 15:13:20.7824 Info - SupportBank.Program: Parsing Line: 22 | 16/02/2015,chris w,dan w,jenkins fees,1.28
+2021-11-18 15:13:20.7824 Info - SupportBank.Program: Parsing Line: 23 | 17/02/2015,sarah t,dan w,sandbox help,11.48
+2021-11-18 15:13:20.7824 Info - SupportBank.Program: Parsing Line: 24 | 18/02/2015,stephen s,rob s,lego assistance,4.83
+2021-11-18 15:13:20.7824 Info - SupportBank.Program: Parsing Line: 25 | 21/02/2015,dan w,ben b,pokemon training,0.5
+2021-11-18 15:13:20.7824 Info - SupportBank.Program: Parsing Line: 26 | 24/02/2015,todd,gergana i,coffee,9.08
+2021-11-18 15:13:20.7824 Info - SupportBank.Program: Parsing Line: 27 | 26/02/2015,stephen s,jon a,pokemon training,4.23
+2021-11-18 15:13:20.7824 Info - SupportBank.Program: Parsing Line: 28 | 01/03/2015,ben b,sam n,lunch,one cheeseburger
+2021-11-18 15:15:13.3932 Info - SupportBank.Program: Running Program
+2021-11-18 15:15:13.4146 Info - SupportBank.Program: Reading File: C:\Work\Training\SupportBank\SupportBank\DodgyTransactions2015.csv
+2021-11-18 15:15:13.4247 Info - SupportBank.Program: Parsing Line: 2 | 01/01/2015,laura b,sarah t,misc morale,10.54
+2021-11-18 15:15:13.4247 Info - SupportBank.Program: Parsing Line: 3 | 04/01/2015,stephen s,gergana i,lunch,3.22
+2021-11-18 15:15:13.4247 Info - SupportBank.Program: Parsing Line: 4 | 07/01/2015,ben b,jon a,fantasy football,9.93
+2021-11-18 15:15:13.4247 Info - SupportBank.Program: Parsing Line: 5 | 11/01/2015,ben b,todd,lunch,7.33
+2021-11-18 15:15:13.4247 Info - SupportBank.Program: Parsing Line: 6 | 12/01/2015,laura b,ben b,beers,8.94
+2021-11-18 15:15:13.4247 Info - SupportBank.Program: Parsing Line: 7 | 15/01/2015,todd,rob s,beers,10.19
+2021-11-18 15:15:13.4247 Info - SupportBank.Program: Parsing Line: 8 | 16/01/2015,laura b,jon a,lego assistance,0.69
+2021-11-18 15:15:13.4247 Info - SupportBank.Program: Parsing Line: 9 | 18/01/2015,jon a,sarah t,coffee,10.73
+2021-11-18 15:15:13.4247 Info - SupportBank.Program: Parsing Line: 10 | 22/01/2015,gergana i,todd,coffee,0.8
+2021-11-18 15:15:13.4247 Info - SupportBank.Program: Parsing Line: 11 | 24/01/2015,gergana i,chris w,coffee,8.49
+2021-11-18 15:15:13.4247 Info - SupportBank.Program: Parsing Line: 12 | 27/01/2015,laura b,tim l,jenkins fees,0.52
+2021-11-18 15:15:13.4247 Info - SupportBank.Program: Parsing Line: 13 | 29/01/2015,sam n,chris w,lunch,9.01
+2021-11-18 15:15:13.4247 Info - SupportBank.Program: Parsing Line: 14 | 01/02/2015,stephen s,laura b,coffee,7.53
+2021-11-18 15:15:13.4247 Info - SupportBank.Program: Parsing Line: 15 | 02/02/2015,stephen s,rob s,fantasy football,7.43
+2021-11-18 15:15:13.4247 Info - SupportBank.Program: Parsing Line: 16 | 04/02/2015,rob s,stephen s,fantasy football,5.78
+2021-11-18 15:15:13.4247 Info - SupportBank.Program: Parsing Line: 17 | 06/02/2015,dan w,gergana i,automated testing services,10.29
+2021-11-18 15:15:13.4247 Info - SupportBank.Program: Parsing Line: 18 | 07/02/2015,jon a,chris w,rails consultancy,7.37
+2021-11-18 15:15:13.4247 Info - SupportBank.Program: Parsing Line: 19 | 10/02/2015,sam n,gergana i,sandbox help,9.84
+2021-11-18 15:15:13.4247 Info - SupportBank.Program: Parsing Line: 20 | 11/02/2015,chris w,stephen s,misc morale,0.68
+2021-11-18 15:15:13.4247 Info - SupportBank.Program: Parsing Line: 21 | 13/02/2015,laura b,gergana i,beers,6.56
+2021-11-18 15:15:13.4247 Info - SupportBank.Program: Parsing Line: 22 | 16/02/2015,chris w,dan w,jenkins fees,1.28
+2021-11-18 15:15:13.4247 Info - SupportBank.Program: Parsing Line: 23 | 17/02/2015,sarah t,dan w,sandbox help,11.48
+2021-11-18 15:15:13.4247 Info - SupportBank.Program: Parsing Line: 24 | 18/02/2015,stephen s,rob s,lego assistance,4.83
+2021-11-18 15:15:13.4247 Info - SupportBank.Program: Parsing Line: 25 | 21/02/2015,dan w,ben b,pokemon training,0.5
+2021-11-18 15:15:13.4247 Info - SupportBank.Program: Parsing Line: 26 | 24/02/2015,todd,gergana i,coffee,9.08
+2021-11-18 15:15:13.4247 Info - SupportBank.Program: Parsing Line: 27 | 26/02/2015,stephen s,jon a,pokemon training,4.23
+2021-11-18 15:15:13.4247 Info - SupportBank.Program: Parsing Line: 28 | 01/03/2015,ben b,sam n,lunch,one cheeseburger
+2021-11-18 15:15:13.4247 Error - SupportBank.Program: Invalid input for field on line: 28 | 01/03/2015,ben b,sam n,lunch,one cheeseburgerin: C:\Work\Training\SupportBank\SupportBank\DodgyTransactions2015.csv
+2021-11-18 15:24:48.1196 Info - SupportBank.Program: Running Program
+2021-11-18 15:24:48.1412 Info - SupportBank.Program: Reading File: C:\Work\Training\SupportBank\SupportBank\DodgyTransactions2015.csv
+2021-11-18 15:24:48.1412 Info - SupportBank.Program: Parsing Line: 2 | 01/01/2015,laura b,sarah t,misc morale,10.54
+2021-11-18 15:24:48.1412 Info - SupportBank.Program: Parsing Line: 3 | 04/01/2015,stephen s,gergana i,lunch,3.22
+2021-11-18 15:24:48.1412 Info - SupportBank.Program: Parsing Line: 4 | 07/01/2015,ben b,jon a,fantasy football,9.93
+2021-11-18 15:24:48.1412 Info - SupportBank.Program: Parsing Line: 5 | 11/01/2015,ben b,todd,lunch,7.33
+2021-11-18 15:24:48.1412 Info - SupportBank.Program: Parsing Line: 6 | 12/01/2015,laura b,ben b,beers,8.94
+2021-11-18 15:24:48.1412 Info - SupportBank.Program: Parsing Line: 7 | 15/01/2015,todd,rob s,beers,10.19
+2021-11-18 15:24:48.1412 Info - SupportBank.Program: Parsing Line: 8 | 16/01/2015,laura b,jon a,lego assistance,0.69
+2021-11-18 15:24:48.1412 Info - SupportBank.Program: Parsing Line: 9 | 18/01/2015,jon a,sarah t,coffee,10.73
+2021-11-18 15:24:48.1412 Info - SupportBank.Program: Parsing Line: 10 | 22/01/2015,gergana i,todd,coffee,0.8
+2021-11-18 15:24:48.1412 Info - SupportBank.Program: Parsing Line: 11 | 24/01/2015,gergana i,chris w,coffee,8.49
+2021-11-18 15:24:48.1412 Info - SupportBank.Program: Parsing Line: 12 | 27/01/2015,laura b,tim l,jenkins fees,0.52
+2021-11-18 15:24:48.1412 Info - SupportBank.Program: Parsing Line: 13 | 29/01/2015,sam n,chris w,lunch,9.01
+2021-11-18 15:24:48.1412 Info - SupportBank.Program: Parsing Line: 14 | 01/02/2015,stephen s,laura b,coffee,7.53
+2021-11-18 15:24:48.1412 Info - SupportBank.Program: Parsing Line: 15 | 02/02/2015,stephen s,rob s,fantasy football,7.43
+2021-11-18 15:24:48.1412 Info - SupportBank.Program: Parsing Line: 16 | 04/02/2015,rob s,stephen s,fantasy football,5.78
+2021-11-18 15:24:48.1412 Info - SupportBank.Program: Parsing Line: 17 | 06/02/2015,dan w,gergana i,automated testing services,10.29
+2021-11-18 15:24:48.1412 Info - SupportBank.Program: Parsing Line: 18 | 07/02/2015,jon a,chris w,rails consultancy,7.37
+2021-11-18 15:24:48.1412 Info - SupportBank.Program: Parsing Line: 19 | 10/02/2015,sam n,gergana i,sandbox help,9.84
+2021-11-18 15:24:48.1412 Info - SupportBank.Program: Parsing Line: 20 | 11/02/2015,chris w,stephen s,misc morale,0.68
+2021-11-18 15:24:48.1412 Info - SupportBank.Program: Parsing Line: 21 | 13/02/2015,laura b,gergana i,beers,6.56
+2021-11-18 15:24:48.1412 Info - SupportBank.Program: Parsing Line: 22 | 16/02/2015,chris w,dan w,jenkins fees,1.28
+2021-11-18 15:24:48.1412 Info - SupportBank.Program: Parsing Line: 23 | 17/02/2015,sarah t,dan w,sandbox help,11.48
+2021-11-18 15:24:48.1412 Info - SupportBank.Program: Parsing Line: 24 | 18/02/2015,stephen s,rob s,lego assistance,4.83
+2021-11-18 15:24:48.1412 Info - SupportBank.Program: Parsing Line: 25 | 21/02/2015,dan w,ben b,pokemon training,0.5
+2021-11-18 15:24:48.1412 Info - SupportBank.Program: Parsing Line: 26 | 24/02/2015,todd,gergana i,coffee,9.08
+2021-11-18 15:24:48.1412 Info - SupportBank.Program: Parsing Line: 27 | 26/02/2015,stephen s,jon a,pokemon training,4.23
+2021-11-18 15:24:48.1412 Info - SupportBank.Program: Parsing Line: 28 | 01/03/2015,ben b,sam n,lunch,one cheeseburger
+2021-11-18 15:24:48.1544 Error - SupportBank.Program: Invalid input for field on line: 28 | 01/03/2015,ben b,sam n,lunch,one cheeseburgerin: C:\Work\Training\SupportBank\SupportBank\DodgyTransactions2015.csv

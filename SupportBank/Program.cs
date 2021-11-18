@@ -1,21 +1,36 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
+using NLog;
+using NLog.Config;
+using NLog.Targets;
+
 
 
 namespace SupportBank
 {
     class Program
     {
+        private static readonly ILogger logger = LogManager.GetCurrentClassLogger();
         static void Main(string[] args)
         {
+            var config = new LoggingConfiguration();
+            var target = new FileTarget { FileName = @"C:\Work\Training\SupportBank\SupportBank\Logs\SupportBank.log", Layout = @"${longdate} ${level} - ${logger}: ${message}" };
+            config.AddTarget("File Logger", target);
+            config.LoggingRules.Add(new LoggingRule("*", LogLevel.Debug, target));
+            LogManager.Configuration = config;
+            
+            logger.Info("Running Program");
+            
             List<Transaction> transactions = new List<Transaction>();
             Dictionary<string, Person> people = new Dictionary<string, Person>();
-            
-            using (var reader = new StreamReader(@"C:\Work\Training\SupportBank\SupportBank\Transactions2014.csv"))
+
+            string path = @"C:\Work\Training\SupportBank\SupportBank\DodgyTransactions2015.csv";
+            logger.Info("Reading File: " + path);
+            using (var reader = new StreamReader(path))
             {
                 bool firstLine = true;
-                
+                int lineNumber = 2;
                 while (!reader.EndOfStream)
                 {
                     string line = reader.ReadLine().ToLower();
@@ -26,18 +41,40 @@ namespace SupportBank
                         continue;
                     }
                     
+                    logger.Info("Parsing Line: " + lineNumber + " | " + line);
                     string[] values = line.Split(',');
+
+                    if (values.Length != 5)
+                    {
+                        logger.Error("Incorrect number of fields on line: " + lineNumber + " | " + line + "in: " + path);
+                        throw new ArgumentException("Incorrect number of fields on line: " + lineNumber + " | " + line + "in: " + path);
+                    }
 
                     // add from person
                     if (!people.ContainsKey(values[1])) { people.Add(values[1], new Person(values[1])); }
                     // add to person
                     if (!people.ContainsKey(values[2])) { people.Add(values[2], new Person(values[2])); }
+
+                    string date;
+                    Person from;
+                    Person to;
+                    string narrative;
+                    float amount;
                     
-                    string date = values[0];
-                    Person from = people[values[1]];
-                    Person to = people[values[2]];
-                    string narrative = values[3];
-                    float amount = float.Parse(values[4]);
+                    try
+                    {
+                        date = values[0];
+                        from = people[values[1]];
+                        to = people[values[2]]; 
+                        narrative = values[3];
+                        amount = float.Parse(values[4]);
+                    }
+                    catch (Exception e)
+                    {
+                        logger.Error("Invalid input for field on line: " + lineNumber + " | " + line + "in: " + path);
+                        throw new ArgumentException("Invalid input for field on line: " + lineNumber + " | " + line + "in: " + path);
+                    }
+
 
                     Transaction transaction = new Transaction(  date,
                                                                 from,
@@ -49,6 +86,7 @@ namespace SupportBank
                     transactions.Add(transaction);
                     from.sentTransactions.Add(transaction);
                     to.recievedTransactions.Add(transaction);
+                    lineNumber++;
                 }
             }
             
